@@ -6,7 +6,7 @@ gem 'faker',          '1.7.3' #10.3.2追加
 gem 'will_paginate',           '3.1.6' #10.3.3追加
 gem 'bootstrap-will_paginate', '1.0.0' #10.3.3追加
 gem 'bootstrap-sass', '3.3.7'
-gem 'puma',         '3.9.1'
+gem 'puma',         '3.12.4'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
